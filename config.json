@@ -133,8 +133,8 @@
 {"key":"drpy_js_搜狗","name":"🎄搜狗〔JS〕","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/搜狗.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_荐片","name":"🎄荐片〔JS〕","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/荐片.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"酷影视","name":"🌹酷影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","timeout":30},
+{"key":"HG","name":"🌸HG〔采集〕","type":1,"api":"http://cs.hgyx.vip/api/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"CK","name":"🌸CK〔采集〕","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"360","name":"🌸360〔采集〕","type":1,"api":"https://360zy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"华为","name":"🌹华为〔采集〕","type":1,"api":"https://cjhwba.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"影图","name":"🌸影图〔采集〕","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"iKun","name":"🌸iKun〔采集〕","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
@@ -157,10 +157,10 @@
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"麒麟","type":0,"url":"https://t1.qlplayer.cyou/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"爱看","type":0,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"极速","type":0,"url":"https://jx.2s0.cn/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"M1907","type":0,"url":"https://z1.m1907.top/?jx=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
+{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"77云","type":0,"url":"https://jx.77flv.cc/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
 ],
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","mgtv","imgo","letv","le","sohu","tudou","pptv","funshion","wasu","m1905","bilibili","xigua","优酷","腾讯","爱奇艺","奇艺","芒果","乐视","西瓜","哔哩哔哩","哔哩"],
