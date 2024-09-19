@@ -139,7 +139,6 @@
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"麒麟","type":0,"url":"https://t1.qlplayer.cyou/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"爱看","type":0,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"M1907","type":0,"url":"https://z1.m1907.top/?jx=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"77云","type":0,"url":"https://jx.77flv.cc/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
