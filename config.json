@@ -1,4 +1,4 @@
-﻿//配置地址-->  https://gh.llkk.cc/raw.githubusercontent.com/Koolight/FreeOK/main/box.json
+﻿//配置地址-->  https://gh-proxy.com/raw.githubusercontent.com/Koolight/FreeOK/main/box.json
 
 {
 "spider":"./jar/Koolight.jar;md5;96f944d56951d827be24a31c3f25527a",
@@ -10,7 +10,7 @@
 "warningText":"Koolight",
 
 "lives":[
-{"name":"TV","type":0,"url":"https://gh.llkk.cc/raw.githubusercontent.com/ctsfork/web/main/iptv/hd-live-all.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"TV","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/ctsfork/web/main/iptv/hd-live-all.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPV6","type":0,"url":"https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axghnvpkxk5c/b/vircloud/o/ipv6.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"LIVE","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
@@ -106,13 +106,13 @@
 {"key":"XBPQ_鱼TV影视","name":"🍑鱼TV影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/鱼TV影视.json","timeout":30},
 {"key":"XBPQ_追剧很卷","name":"🍑追剧很卷〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/追剧很卷.json","timeout":30},
 {"key":"XBPQ_子子影视","name":"🍑子子影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/子子影视.json","timeout":30},
-{"key":"drpy_js_360影视","name":"🎄360影视〔JS〕","type":3,"api":"https://gh.llkk.cc/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/360影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"drpy_js_爱奇艺","name":"🎄爱奇艺〔JS〕","type":3,"api":"https://gh.llkk.cc/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/爱奇艺.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"drpy_js_腾讯","name":"🎄腾讯〔JS〕","type":3,"api":"https://gh.llkk.cc/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/腾讯.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"drpy_js_优酷","name":"🎄优酷〔JS〕","type":3,"api":"https://gh.llkk.cc/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/优酷.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"drpy_js_芒果","name":"🎄芒果〔JS〕","type":3,"api":"https://gh.llkk.cc/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/芒果.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"drpy_js_搜狗","name":"🎄搜狗〔JS〕","type":3,"api":"https://gh.llkk.cc/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/搜狗.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"drpy_js_荐片","name":"🎄荐片〔JS〕","type":3,"api":"https://gh.llkk.cc/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/荐片.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_360影视","name":"🎄360影视〔JS〕","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/360影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_爱奇艺","name":"🎄爱奇艺〔JS〕","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/爱奇艺.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_腾讯","name":"🎄腾讯〔JS〕","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/腾讯.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_优酷","name":"🎄优酷〔JS〕","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/优酷.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_芒果","name":"🎄芒果〔JS〕","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/芒果.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_搜狗","name":"🎄搜狗〔JS〕","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/搜狗.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_荐片","name":"🎄荐片〔JS〕","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"./js/荐片.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"酷影视","name":"🌹酷影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","timeout":30},
 {"key":"新感觉","name":"🌹新感觉〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.248.100.147:9891/api.php/app/","timeout":30},
 {"key":"君君","name":"🌹君君〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.228.85.203:1000/api.php/app/","timeout":30},
