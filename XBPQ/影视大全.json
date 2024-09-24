@@ -1,0 +1,8 @@
+{
+    "站名":"影视大全",
+    "主页url":"https://www.ysdq.me/",
+    "影片地区":"Koolight",
+    "影片年代":"<p class=\"module-info-item-content&&</p>",
+    "分类url":"https://www.ysdq.me/vodshow/{cateId}-{class}-{by}-{area}-{lang}--{catePg}-{year}.html",
+    "分类":"电影$1#电视剧$2#动漫$5#综艺$4#短剧$3"
+}
