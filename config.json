@@ -1,7 +1,7 @@
 ﻿//配置地址-->  https://raw.gitmirror.com/Koolight/FreeOK/main/box.json
 
 {
-"spider":"https://hub.gitmirror.com/raw.githubusercontent.com/Koolight/FreeOK/main/jar/Koolight.jar;md5;96f944d56951d827be24a31c3f25527a",
+"spider":"https://ghp.ci/raw.githubusercontent.com/Koolight/FreeOK/main/jar/Koolight.jar;md5;96f944d56951d827be24a31c3f25527a",
 
 "logo":"https://raw.gitmirror.com/Koolight/FreeOK/main/logo.gif",
 
