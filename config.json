@@ -17,7 +17,7 @@
 
 "sites":[
 {"key":"豆瓣","name":"❤️豆瓣〔SP〕","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
-{"key":"drpy_js_360影视","name":"🍎360影视〔JS〕","type":3,"api":"https://raw.gitmirror.com/Koolight/FreeOK/main/js/libs/drpy2.min.js","ext":"https://raw.gitmirror.com/Koolight/FreeOK/main/js/360影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_360影视","name":"🍎360影视〔JS〕","type":3,"api":"https://raw.gitmirror.com/Koolight/FreeOK/main/js/libs/drpy2.min.js","ext":"https://raw.gitmirror.com/Koolight/FreeOK/main/js/360影视.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_爱奇艺","name":"🍎爱奇艺〔JS〕","type":3,"api":"https://raw.gitmirror.com/Koolight/FreeOK/main/js/libs/drpy2.min.js","ext":"https://raw.gitmirror.com/Koolight/FreeOK/main/js/爱奇艺.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_腾讯","name":"🍎腾讯〔JS〕","type":3,"api":"https://raw.gitmirror.com/Koolight/FreeOK/main/js/libs/drpy2.min.js","ext":"https://raw.gitmirror.com/Koolight/FreeOK/main/js/腾讯.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_优酷","name":"🍎优酷〔JS〕","type":3,"api":"https://raw.gitmirror.com/Koolight/FreeOK/main/js/libs/drpy2.min.js","ext":"https://raw.gitmirror.com/Koolight/FreeOK/main/js/优酷.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
