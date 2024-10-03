@@ -1,7 +1,7 @@
 {"urls":
 [
-{"url":"https://cdn.jsdelivr.net/gh/Koolight/FreeOK/box.json","name":"jsdelivr.net"},
 {"url":"https://raw.gitmirror.com/Koolight/FreeOK/main/box.json","name":"gitmirror.com"},
+{"url":"https://cdn.jsdelivr.net/gh/Koolight/FreeOK@main/box.json","name":"jsdelivr.net"},
 {"url":"https://ghp.ci/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"ghp.ci"},
 {"url":"https://gh.tt.ma/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"tt.ma"},
 {"url":"https://ghpr.cc/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"ghpr.cc"},
