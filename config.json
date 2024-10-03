@@ -1,4 +1,4 @@
-﻿//配置地址-->  https://raw.gitmirror.com/Koolight/FreeOK/main/box.json
+﻿//配置地址-->  https://raw.githubusercontent.com/Koolight/FreeOK/main/box.json
 
 {
 "spider":"https://ghp.ci/raw.githubusercontent.com/Koolight/FreeOK/main/jar/Koolight.jar;md5;96f944d56951d827be24a31c3f25527a",
@@ -23,7 +23,7 @@
 {"key":"drpy_js_优酷","name":"🍎优酷〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/优酷.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_芒果","name":"🍎芒果〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/芒果.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_搜狗","name":"🍎搜狗〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/搜狗.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
-{"key":"drpy_js_荐片","name":"🍎荐片〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/荐片.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
+{"key":"drpy_js_荐片","name":"🍎荐片〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/荐片.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_4K影视","name":"🍎4K影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/4K影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_厂长资源","name":"🍎厂长资源〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/厂长资源.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_瓜子影视","name":"🍎瓜子影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/瓜子影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
