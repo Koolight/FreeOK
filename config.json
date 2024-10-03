@@ -1,9 +1,9 @@
 ﻿//配置地址-->  https://raw.githubusercontent.com/Koolight/FreeOK/main/box.json
 
 {
-"spider":"https://ghp.ci/raw.githubusercontent.com/Koolight/FreeOK/main/jar/Koolight.jar;md5;96f944d56951d827be24a31c3f25527a",
+"spider":"./jar/Koolight.jar;md5;96f944d56951d827be24a31c3f25527a",
 
-"logo":"https://ghp.ci/raw.githubusercontent.com/Koolight/FreeOK/main/logo.gif",
+"logo":"./logo.gif",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
