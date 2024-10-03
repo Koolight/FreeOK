@@ -1,12 +1,12 @@
 {"urls":
 [
-{"url":"https://raw.gitmirror.com/Koolight/FreeOK/main/box.json","name":"gitmirror.com"},
-{"url":"https://cdn.jsdelivr.net/gh/Koolight/FreeOK@main/box.json","name":"jsdelivr.net"},
+{"url":"https://cdn.gitmirror.com/gh/koolight/FreeOK/main/box.json","name":"cdn.gitmirror.com"},
 {"url":"https://ghp.ci/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"ghp.ci"},
 {"url":"https://gh.tt.ma/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"tt.ma"},
 {"url":"https://ghpr.cc/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"ghpr.cc"},
 {"url":"https://gitdl.cn/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"gitdl.cn"},
 {"url":"https://gh.con.sh/https://raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"con.sh"},
+{"url":"https://gh-proxy.com/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"gh-proxy.com"},
 {"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"llkk.cc"},
 {"url":"https://ghproxy.lainbo.com/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"lainbo.com"},
 {"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"moeyy.xyz"}
