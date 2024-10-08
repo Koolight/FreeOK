@@ -3,7 +3,7 @@
     "主页url":"https://www.bttwo.me/",
     //"发布页":"https://www.bttwo.vip/",
     "分类":"电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv",
-    "分类url":"https://www.bttwo.com/{cateId}/page/{catePg}",
+    "分类url":"https://www.bttwo.me/{cateId}/page/{catePg}",
     "数组":"",
     "副标题":"",
     "图片":"",
