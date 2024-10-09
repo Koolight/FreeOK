@@ -21,7 +21,7 @@
     "搜索标题":"title=\"&&\"",
     "搜索链接":"href=\"&&\"",
     "线路数组":"<div class=\"stui-pannel__head bottom-line active clearfix\">&&</div>",
-    "线路标题":"/statics/icon/icon_26.png\"/>&&</h3>[替换:优酷视频>>悠悠视频#奇艺视频>>琪琪视频#腾讯视频>>迅雷视频#西瓜视频>>南瓜视频#芒果视频>>果果视频]",
+    "线路标题":"/statics/icon/icon_26.png\"/>&&</h3>",
     "播放数组":"<ul class=\"stui-content__playlist playlink clearfix column8\">&&</ul>",
     "播放标题":"title=\"&&\"",
     "播放列表":"<li&&</li>",
