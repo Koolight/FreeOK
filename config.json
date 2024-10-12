@@ -10,7 +10,7 @@
 "warningText":"Koolight",
 
 "lives":[
-{"name":"TV","type":0,"url":"https://cdn.jsdelivr.net/gh/ctsfork/web@main/all.json","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"TV","type":0,"url":"https://cdn.jsdelivr.net/gh/ctsfork/web@main/iptv/input/hd-live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPV6","type":0,"url":"https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axghnvpkxk5c/b/vircloud/o/ipv6.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"LIVE","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
@@ -44,6 +44,7 @@
 {"key":"XBPQ_8号影院","name":"🍑8号影院〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/8号影院.json","timeout":30},
 {"key":"XBPQ_飞飞影视","name":"🍑飞飞影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/飞飞影视.json","timeout":30},
 {"key":"XBPQ_酷吧影视","name":"🍑酷吧影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/酷吧影视.json","timeout":30},
+{"key":"XBPQ_农民影视","name":"🍑农民影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/农民影视.json","timeout":30},
 {"key":"XBPQ_奇优影视","name":"🍑奇优影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json","timeout":30},
 {"key":"XBPQ_星辰影院","name":"🍑星辰影院〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/星辰影院.json","timeout":30},
 {"key":"XBPQ_影视大全","name":"🍑影视大全〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/影视大全.json","timeout":30},
@@ -64,7 +65,6 @@
 {"key":"XBPQ_久看电影","name":"🍑久看电影〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/久看电影.json","timeout":30},
 {"key":"XBPQ_巨人影视","name":"🍑巨人影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/巨人影视.json","timeout":30},
 {"key":"XBPQ_可可影视","name":"🍑可可影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/可可影视.json","timeout":30},
-{"key":"XBPQ_麦田影视","name":"🍑麦田影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/麦田影视.json","timeout":30},
 {"key":"XBPQ_免费资源","name":"🍑免费资源〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/免费资源.json","timeout":30},
 {"key":"XBPQ_美柏影视","name":"🍑美柏影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/美柏影视.json","timeout":30},
 {"key":"XBPQ_奈飞影视","name":"🍑奈飞影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奈飞影视.json","timeout":30},
