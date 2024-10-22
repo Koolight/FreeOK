@@ -1,0 +1,8 @@
+{
+    "站点":"奇优影院",
+    "主页url":"http://www.qiyoudy1.com/",
+    "简介":"简介：&&</div>",
+    "搜索url":"http://www.dyxz2.com/search.php;post;searchword={wd}",
+    "分类":"电影$1#电视剧$2#动漫$3#综艺$4#伦理$6",
+    "分类url":"http://www.dyxz2.com/list/{cateId}_{catePg}.html?order=time"
+}
