@@ -1,0 +1,15 @@
+{
+    "站名":"Kimivod",
+    "主页url":"https://kimivod.com/",
+    "图片":"data-src=\"&&\"",
+    "副标题":"<div class=\"absolute right bottom small-margin small-round black white-text small-text\">&nbsp;&&&nbsp;",
+    "影片地区":"Koolight",
+    "影片类型":"<nav class=\"scroll no-margin\"&&</nav>",
+    "导演":"導演:&&</a>",
+    "主演":"主演:&&</p>",
+    "简介":"<p style=\"position:relative; display:inline-block;\"&&</div>",
+    "线路数组":"<a data-ui=\"&&</div>",
+    "线路标题":">&&</span>",
+    "分类url":"https://kimivod.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类":"电影$2#电视剧$1#动漫$3#综艺$4#短剧$39"
+}
