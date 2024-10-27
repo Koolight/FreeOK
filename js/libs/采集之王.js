@@ -1,10 +1,10 @@
 globalThis.getRandomItem = function (items) {return items[Math.random() * items.length | 0];
 }
 var rule = {
-   title: '采集之王[合]',
+   title: '采集之王',
    author: '道长',
-   version: '20240624 beta7',
-   update_info: `20240604:1.首页推荐取消硬控等待。增加随机推荐功能。2.首页推荐新增更新日志查看功能`,
+   version: '2024',
+   update_info: `2024:1.首页推荐取消硬控等待。增加随机推荐功能。2.首页推荐新增更新日志查看功能`,
    tab_remove: ['feifan', 'liangzi', 'fsyun', 'hhyun', 'jsyun'],
    tab_rename: {'ffm3u8':'🐷非凡','feidaozy':'🐷飞刀','lzm3u8':'🐷量子','hhm3u8':'🐷豪华','jsm3u8':'🐷极速','360zy':'🐷360','heimuer':'🐷黑木耳','hw8':'🐷华为吧','hym3u8':'虎牙','bfzym3u8':'暴风','1080zyk':'优质','kuaikan':'快看','snm3u8':'索尼','gsm3u8':'光速','okm3u8':'OK','leshi':'乐视','tkm3u8':'天空','wjm3u8':'无尽','sdm3u8':'闪电','jinyingm3u8':'金鹰','fsm3u8':'飞速','hnm3u8':'红牛','xlm3u8':'新浪','kcm3u8':'快车','qhm3u8':'奇虎'},
    tab_order: ['lzm3u8', 'ffm3u8', 'hhm3u8', 'jsm3u8', 'heimuer', '360zy', 'feidaozy', 'hw8'],
