@@ -42,7 +42,7 @@
 {"key":"drpy_js_子子影视","name":"🍎子子影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/子子影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_348电影网","name":"🍎348电影网〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/348电影网.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_新感觉","name":"🍎新感觉〔JS〕","type":3,"api":"./js/libs/appys.js","ext":{"host":"http://43.248.100.147:9892/api.php/app/","*":["http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=","https://jx.xiaofengtv.com/M3/json.php/?url=","http://112.74.124.75:8899/jiexi/api.php?url="]},"searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"drpy_js_采集之王","name":"🍎采集资源〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/libs/采集之王.js?type=url&params=./js/json/采集静态.json$1","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_采集之王","name":"🍎采集资源〔JS〕","type":3,"order_num":142,"api":"./js/libs/drpy2.min.js","ext":"./js/libs/采集之王.js?type=url&params=./js/json/采集静态.json$1","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_p2p磁力","name":"🍎路飞〔JS〕","type":3,"api":"./js/libs/lf_p2p2_min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"XBPQ_4K影视","name":"🍑4K影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/4K影视.json","timeout":30},
 {"key":"XBPQ_界影视","name":"🍑界影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/界影视.json","timeout":30},
