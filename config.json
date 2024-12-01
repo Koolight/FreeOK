@@ -16,18 +16,11 @@
 {"name":"Gather","type":0,"url":"https://tv.iill.top/m3u/Gather","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Live","type":0,"url":"https://tv.iill.top/m3u/Live","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"MyTV","type":0,"url":"https://tv.iill.top/m3u/MyTV","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Sport","type":0,"url":"https://tv.iill.top/m3u/Sport","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"T4-TV","type":0,"url":"https://json.doube.eu.org/live/tv/Sub.php","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"T4-IPV6","type":0,"url":"https://json.doube.eu.org/live/IPV6/Sub.php","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"T4-MIGU","type":0,"url":"https://json.doube.eu.org/live/migu/Sub.php","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"Sport","type":0,"url":"https://tv.iill.top/m3u/Sport","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 
 "sites":[
 {"key":"豆瓣","name":"❤️豆瓣〔SP〕","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
-{"key":"T4-克隆合集","name":"🍒克隆合集〔T4〕","type":4,"api":"https://api.paoyun.eu.org/klhj.php","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"T4-两个BT","name":"🍒两个BT〔T4〕","type":4,"api":"https://json.doube.eu.org/app/index.php?site=bttwoo","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"T4-黑木耳","name":"🍒黑木耳〔T4〕","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webheimuer","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"T4-华为吧","name":"🍒华为吧〔T4〕","type":4,"api":"https://json.doube.eu.org/app/index.php?site=webhuaweiba","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_360影视","name":"🍎360影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/360影视.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_爱奇艺","name":"🍎爱奇艺〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/爱奇艺.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_腾讯","name":"🍎腾讯〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/腾讯.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
@@ -35,9 +28,6 @@
 {"key":"drpy_js_芒果","name":"🍎芒果〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/芒果.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_搜狗","name":"🍎搜狗〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/搜狗.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_荐片","name":"🍎荐片〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/荐片.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"drpy_js_巨人弹幕","name":"🍎巨人弹幕〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/巨人弹幕.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"drpy_js_小熊弹幕","name":"🍎小熊弹幕〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/小熊弹幕.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"drpy_js_小虎斑资源","name":"🍎小虎斑资源〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/小虎斑资源.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_磁力熊","name":"🍎磁力熊〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/磁力熊.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_4K影视","name":"🍎4K影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/4K影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_8号影院","name":"🍎8号影院〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/8号影院.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
@@ -52,6 +42,9 @@
 {"key":"drpy_js_闪雷影视","name":"🍎闪雷影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/闪雷影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_子子影视","name":"🍎子子影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/子子影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_348电影网","name":"🍎348电影网〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/348电影网.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_巨人弹幕","name":"🍎巨人弹幕〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/巨人弹幕.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_小熊弹幕","name":"🍎小熊弹幕〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/小熊弹幕.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_小虎斑资源","name":"🍎小虎斑资源〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/小虎斑资源.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_大米星球","name":"🍎大米星球〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/libs/APPV2.js?type=url&params=https://damifan.life","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_采集之王","name":"🍎采集站〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"https://cdn.jsdelivr.net/gh/Koolight/FreeOK@main/js/libs/采集之王.js?type=url&params=https://cdn.jsdelivr.net/gh/Koolight/FreeOK@main/js/json/采集静态.json","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_p2p磁力","name":"🍎路飞〔JS〕","type":3,"api":"./js/libs/lf_p2p2_min.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
@@ -144,8 +137,6 @@
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
-{"name":"XGJ","type":1,"url":"http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"BBA","type":1,"url":"http://43.248.100.147:6068/bba/bbajson.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"巴拉巴拉","type":1,"url":"https://jxjson.icu/neibu.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"麒麟","type":0,"url":"https://t1.qlplayer.cyou/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"爱看","type":0,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
