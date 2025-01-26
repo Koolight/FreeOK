@@ -44,9 +44,9 @@ let tabse = false;
 d.forEach(function(it) {
 	let burl = pdfh(it, 'a&&href');
 	if (burl.startsWith("https://www.aliyundrive.com/s/") || burl.startsWith("https://www.alipan.com/s/")){
-		tabsa.push("阿里雲盤");
+		tabsa.push("阿里云盘");
 	}else if (burl.startsWith("https://pan.quark.cn/s/")){
-		tabsq.push("夸克網盤");
+		tabsq.push("夸克网盘");
 	}else if (burl.startsWith("magnet")){
 		tabsm = true;
 	}else if (burl.startsWith("ed2k")){
@@ -57,10 +57,10 @@ if (tabsm === true){
 	TABS.push("磁力");
 }
 if (tabse === true){
-	TABS.push("電驢");
+	TABS.push("电驴");
 }
 if (false && tabsa.length + tabsq.length > 1){
-	TABS.push("選擇右側綫路");
+	TABS.push("选择右侧线路");
 }
 let tmpIndex;
 tmpIndex=1;
@@ -127,7 +127,7 @@ if (liste.length>0){
 	LISTS.push(liste);
 }
 if (false && lista.length + listq.length > 1){
-	LISTS.push(["選擇右側綫路，或3秒後自動跳過$http://127.0.0.1:10079/delay/"]);
+	LISTS.push(["选择右侧线路，或3秒后自动跳过$http://127.0.0.1:10079/delay/"]);
 }
 lista.forEach(function(it){
 	LISTS.push([it]);

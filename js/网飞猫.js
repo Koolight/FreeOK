@@ -1,7 +1,6 @@
 var rule = {
-    title:'网飞猫[优]',
+    title:'网飞猫',
     host:'https://www.ncat1.app',
-    // url:'/show/fyclass-----2-fypage.html',
     url:'/show/fyclass-----2-fypage.html',
     searchUrl:'/search?k=**&page=fypage',
     searchable:2,
@@ -49,6 +48,4 @@ var rule = {
             rule.图片替换 = 'https://www.ncat1.app=>' + img_host;
         }
     }),
-
-    
 }
