@@ -1,4 +1,4 @@
-//配置地址-->  https://raw.githubusercontent.com/Koolight/FreeOK/main/box.json
+﻿//配置地址-->  https://raw.githubusercontent.com/Koolight/FreeOK/main/box.json
 
 {
 "spider":"./jar/Koolight.jar;md5;96f944d56951d827be24a31c3f25527a",
@@ -33,7 +33,6 @@
 {"key":"drpy_js_网飞猫","name":"🍎网飞猫〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/网飞猫.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_4K影视","name":"🍎4K影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/4K影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_8号影院","name":"🍎8号影院〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/8号影院.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"drpy_js_思古影视","name":"🍎思古影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/思古影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_厂长资源","name":"🍎厂长资源〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/厂长资源.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_瓜子影视","name":"🍎瓜子影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/瓜子影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_饺子影院","name":"🍎饺子影院〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/饺子影院.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
@@ -43,6 +42,7 @@
 {"key":"drpy_js_农民影视","name":"🍎农民影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/农民影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_奇优影院","name":"🍎奇优影院〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/奇优影院.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_闪雷影视","name":"🍎闪雷影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/闪雷影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_思古影视","name":"🍎思古影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/思古影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_天龙影院","name":"🍎天龙影院〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/天龙影院.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_子子影视","name":"🍎子子影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/子子影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_348电影网","name":"🍎348电影网〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/348电影网.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
