@@ -1,4 +1,4 @@
-﻿//配置地址-->  https://raw.githubusercontent.com/Koolight/FreeOK/main/box.json
+//配置地址-->  https://raw.githubusercontent.com/Koolight/FreeOK/main/box.json
 
 {
 "spider":"./jar/Koolight.jar;md5;96f944d56951d827be24a31c3f25527a",
@@ -28,6 +28,7 @@
 {"key":"drpy_js_芒果","name":"🍎芒果〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/芒果.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_搜狗","name":"🍎搜狗〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/搜狗.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_荐片","name":"🍎荐片〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/荐片.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_4KHDR","name":"🍎4KHDR〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/4KHDR.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_磁力熊","name":"🍎磁力熊〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/磁力熊.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_网飞猫","name":"🍎网飞猫〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/网飞猫.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_4K影视","name":"🍎4K影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/4K影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
@@ -39,7 +40,6 @@
 {"key":"drpy_js_金牌影院","name":"🍎金牌影院〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/金牌影院.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_可可影视","name":"🍎可可影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/可可影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_来看点播","name":"🍎来看点播〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/来看点播.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"drpy_js_南瓜影视","name":"🍎南瓜影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/南瓜影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_农民影视","name":"🍎农民影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/农民影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_奇优影院","name":"🍎奇优影院〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/奇优影院.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_闪雷影视","name":"🍎闪雷影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/闪雷影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
