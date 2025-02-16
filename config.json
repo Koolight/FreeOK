@@ -1,5 +1,5 @@
 //配置地址-->  https://raw.githubusercontent.com/Koolight/FreeOK/main/box.json
-//本接口仅供测试交流，严禁于商业用途，请于24小时之内删除。
+//本接口仅供测试交流，严禁用于商业用途，请于24小时之内删除。
 //请勿用于违法用途，如有冒犯请联系删除，谨防上当受骗。
 //请勿相信视频中广告。
 //Koolight
@@ -11,7 +11,7 @@
 
 "wallpaper":"https://bing.img.run/uhd.php",
 
-"warningText":"Koolight",
+"warningText":"Koolight：仅供测试交流，严禁用于商业用途，请于24小时之内删除。",
 
 "lives":[
 {"name":"HD-Live","type":0,"url":"https://cdn.jsdelivr.net/gh/PizazzGY/TV@master/output/user_result.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
