@@ -11,7 +11,7 @@
 "wallpaper":"https://bing.img.run/uhd.php",
 
 "lives":[
-{"name":"HD-Live","type":0,"url":"https://cdn.jsdelivr.net/gh/ctsfork/web@main/iptv/input/hd-live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"HD-Live","type":0,"url":"https://cdn.jsdelivr.net/gh/PizazzGY/TV@master/output/user_result.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Adult","type":0,"url":"https://tv.iill.top/m3u/Adult","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 
@@ -50,7 +50,7 @@
 ],
 
 "parses":[
-{"name":"巴拉巴拉","type":1,"url":"https://jxjson.icu/neibu.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"巴拉","type":1,"url":"https://jxjson.icu/neibu.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"麒麟","type":0,"url":"https://t1.qlplayer.cyou/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"爱看","type":0,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"极速","type":0,"url":"https://jx.2s0.cn/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
