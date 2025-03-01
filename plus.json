@@ -8,7 +8,7 @@
 
 "logo":"./plus.gif",
 
-"wallpaper":"https://bing.img.run/uhd.php",
+"wallpaper":"https://bing.img.run/rand.php",
 
 "lives":[
 {"name":"HD-Live","type":0,"url":"https://cdn.jsdelivr.net/gh/PizazzGY/TV@master/output/user_result.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},

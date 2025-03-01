@@ -9,7 +9,7 @@
 
 "logo":"./logo.gif",
 
-"wallpaper":"https://bing.img.run/uhd.php",
+"wallpaper":"https://bing.img.run/rand.php",
 
 "warningText":"Koolight：仅供测试交流，严禁用于商业用途，请于24小时之内删除。",
 
@@ -22,10 +22,6 @@
 "sites":[
 {"key":"豆瓣","name":"❤️豆瓣〔SP〕","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"酷云","name":"🍎酷云〔API〕","type":3,"api":"./js/sc1080.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"T4-Dm84","name":"🍅动漫巴士〔T4〕","type":4,"api":"https://py.doube.eu.org/spider?site=Dm84","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"T4-UpFuHn","name":"🍅Hi视频〔T4〕","type":4,"api":"https://py.doube.eu.org/spider?site=UpFuHn","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"T4-OleVod","name":"🍅欧乐影院〔T4〕","type":4,"api":"https://py.doube.eu.org/spider?site=OleVod","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
-{"key":"T4-BaHaoTV","name":"🍅八号影院〔T4〕","type":4,"api":"https://py.doube.eu.org/spider?site=BaHaoTV","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_360影视","name":"🍎360影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/360影视.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_爱奇艺","name":"🍎爱奇艺〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/爱奇艺.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_腾讯","name":"🍎腾讯〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/腾讯.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
@@ -109,6 +105,10 @@
 {"key":"XBPQ_剧圈圈","name":"🍑剧圈圈〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/剧圈圈.json","timeout":30},
 {"key":"XBPQ_剧爷爷","name":"🍑剧爷爷〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/剧爷爷.json","timeout":30},
 {"key":"XBPQ_茶杯狐","name":"🍑茶杯狐〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/茶杯狐.json","timeout":30},
+{"key":"T4-Dm84","name":"🍅动漫巴士〔T4〕","type":4,"api":"https://py.doube.eu.org/spider?site=Dm84","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"T4-UpFuHn","name":"🍅Hi视频〔T4〕","type":4,"api":"https://py.doube.eu.org/spider?site=UpFuHn","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"T4-OleVod","name":"🍅欧乐影院〔T4〕","type":4,"api":"https://py.doube.eu.org/spider?site=OleVod","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"T4-BaHaoTV","name":"🍅八号影院〔T4〕","type":4,"api":"https://py.doube.eu.org/spider?site=BaHaoTV","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"快看","name":"🍓快看〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kkwk123.top/api.php/app/","timeout":30},
 {"key":"华文","name":"🍓华文〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://zytv.eztv.video/api.php/app/","timeout":30},
 {"key":"酷影视","name":"🍓酷影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","timeout":30},
