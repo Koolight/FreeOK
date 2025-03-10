@@ -4,14 +4,14 @@
 //请勿相信视频中广告。
 
 {
-"spider":"./jar/Koolight.jar;md5;96f944d56951d827be24a31c3f25527a",
+"spider":"./jar/XBPQ.jar;md5;1a5651ad71b517ef9968934753df7569",
 
 "logo":"./plus.gif",
 
 "wallpaper":"https://bing.img.run/rand.php",
 
 "lives":[
-{"name":"HD-Live","type":0,"url":"https://cdn.jsdelivr.net/gh/PizazzGY/TV@master/output/user_result.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"IPTV","type":0,"url":"https://live.iptv365.org/live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Adult","type":0,"url":"https://tv.iill.top/m3u/Adult","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 

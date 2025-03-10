@@ -4,7 +4,7 @@
 //请勿相信视频中广告。
 
 {
-"spider":"./jar/Koolight.jar;md5;96f944d56951d827be24a31c3f25527a",
+"spider":"./jar/XBPQ.jar;md5;1a5651ad71b517ef9968934753df7569",
 
 "logo":"./logo.gif",
 
@@ -15,18 +15,18 @@
 "lives":[
 {"name":"HD-Live","type":0,"url":"https://cdn.jsdelivr.net/gh/PizazzGY/TV@master/output/user_result.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPV6","type":0,"url":"https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axghnvpkxk5c/b/vircloud/o/ipv6.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Fan","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"IPTV","type":0,"url":"https://live.iptv365.org/live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 
 "sites":[
-{"key":"豆瓣","name":"❤️豆瓣〔SP〕","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
-{"key":"drpy_js_360影视","name":"🍎360影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/360影视.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
+{"key":"drpy_js_豆瓣","name":"🍎豆瓣〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/豆瓣.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
+{"key":"drpy_js_360影视","name":"🍎360影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/360影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_爱奇艺","name":"🍎爱奇艺〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/爱奇艺.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_腾讯","name":"🍎腾讯〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/腾讯.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_优酷","name":"🍎优酷〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/优酷.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_芒果","name":"🍎芒果〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/芒果.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_搜狗","name":"🍎搜狗〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/搜狗.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
-{"key":"drpy_js_荐片","name":"🍎荐片〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/荐片.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_荐片","name":"🍎荐片〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/荐片.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_HDmoli","name":"🍎HDmoli〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/HDmoli.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_BT影视","name":"🍎BT影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/BT影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_达达龟","name":"🍎达达龟〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/达达龟.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
