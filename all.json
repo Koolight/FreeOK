@@ -1,6 +1,6 @@
 {
-"urls":
-[
+"urls":[
+{"url":"https://gh.zwy.me/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"zwy.me"},
 {"url":"https://g.blfrp.cn/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"blfrp.cn"},
 {"url":"https://gh.tryxd.cn/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"tryxd.cn"},
 {"url":"https://gh.nxnow.top/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"nxnow.top"},
@@ -10,6 +10,7 @@
 {"url":"https://github.xxlab.tech/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"xxlab.tech"},
 {"url":"https://gitproxy.click/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"gitproxy.click"},
 {"url":"https://ghp.miaostay.com/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"miaostay.com"},
+{"url":"https://proxy.yaoyaoling.net/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"yaoyaoling.net"},
 {"url":"https://ghproxy.cianogame.top/raw.githubusercontent.com/Koolight/FreeOK/main/box.json","name":"cianogame.top"}
 ]
 }
