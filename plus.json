@@ -35,6 +35,7 @@
 {"key":"AIvin","name":"🔞AIvin","type":1,"api":"http://lbapiby.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"滴滴","name":"🔞滴滴","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"极品","name":"🔞极品","type":1,"api":"https://jipinzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"橘猫","name":"🔞橘猫","type":1,"api":"https://to.to-long.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"奶香香","name":"🔞奶香香","type":1,"api":"https://Naixxzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"老鸭","name":"🔞老鸭","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"色猫","name":"🔞色猫","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
@@ -50,7 +51,6 @@
 ],
 
 "parses":[
-{"name":"巴拉","type":1,"url":"https://jxjson.icu/neibu.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"麒麟","type":0,"url":"https://t1.qlplayer.cyou/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"爱看","type":0,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"极速","type":0,"url":"https://jx.2s0.cn/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
