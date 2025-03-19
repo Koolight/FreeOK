@@ -4,7 +4,7 @@
 //请勿相信视频中广告。
 
 {
-"spider":"./jar/XBPQ.jar;md5;1a5651ad71b517ef9968934753df7569",
+"spider":"./jar/Koolight.jar;md5;96f944d56951d827be24a31c3f25527a",
 
 "logo":"./plus.gif",
 
@@ -16,7 +16,7 @@
 ],
 
 "sites":[
-{"key":"欢迎光临","name":"🅰️欢迎光临","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"豆瓣","name":"🅰️欢迎光临","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"直播","name":"🔞直播","type":3,"api":"./js/plus.js"},
 {"key":"大地","name":"🔞大地","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"白嫖","name":"🔞白嫖","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
@@ -47,7 +47,7 @@
 {"key":"手鸡助手","name":"🔞手鸡助手","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/plus/手鸡助手.json"},
 {"key":"火车36小时","name":"🔞火车36小时","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/plus/火车36小时.json"},
 {"key":"天天综合网","name":"🔞天天综合网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/plus/天天综合网.json"},
-{"key":"本地","name":"🅱本地","type":3,"api":"csp_LocalFile","searchable":0}
+{"key":"推送","name":"🅱推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 ],
 
 "parses":[

@@ -4,7 +4,7 @@
 //请勿相信视频中广告。
 
 {
-"spider":"./jar/XBPQ.jar;md5;1a5651ad71b517ef9968934753df7569",
+"spider":"./jar/Koolight.jar;md5;96f944d56951d827be24a31c3f25527a",
 
 "logo":"./logo.gif",
 
@@ -19,6 +19,22 @@
 ],
 
 "sites":[
+{"key":"APP_豆瓣","name":"❤️豆瓣〔APP〕","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
+{"key":"APP_热播","name":"❤️热播〔APP〕","type":3,"api":"csp_TTian","ext":"caHR0cDovL3YucmJvdHYuY24=","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_蝴蝶","name":"❤️蝴蝶〔APP〕","type":3,"api":"csp_Hudie","ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_厂长","name":"❤️厂长〔APP〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"maHR0cHM6Ly93d3cuc3ViYWliYWkuY29tLw==","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_农民","name":"❤️农民〔APP〕","type":3,"api":"csp_Nmvod","ext":"eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_金牌","name":"❤️金牌〔APP〕","type":3,"api":"csp_Jpys","ext":"caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ==","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_二三","name":"❤️二三〔APP〕","type":3,"api":"csp_Muou","ext":"caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_主角","name":"❤️主角〔APP〕","type":3,"api":"csp_Muou","ext":"caHR0cHM6Ly9tdW91YXBwLmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_星河","name":"❤️星河〔APP〕","type":3,"api":"csp_Xdai","ext":"caHR0cDovL3Rlbmd4dW55dW5hbGl5dW4ub3NzLWNuLXNoYW5naGFpLmFsaXl1bmNzLmNvbS90ZW5neHVueXVuLnR4dHxmNWUydHg1M3lrcDZzMmM5fGY1ZTJ0eDUzeWtwNnMyYzl8MzYx","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_现代","name":"❤️现代〔APP〕","type":3,"api":"csp_Xdai","ext":"caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ=","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_优质","name":"❤️优质〔APP〕","type":3,"api":"csp_Xdai","ext":"jaHR0cHM6Ly9keXl6dHZhcHBhcGlnb29kZ3guNjguZ3k6MTI2ODkvY2l3azI4dnUzOGlvOC9hcGl1cmwudHh0fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA=","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_雨滴","name":"❤️雨滴〔APP〕","type":3,"api":"csp_Xdai","ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_玉米","name":"❤️玉米〔APP〕","type":3,"api":"csp_Xdai","ext":"jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg==","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_AI2","name":"❤️AI2〔APP〕","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"ext":"faHR0cDovLzE3NS4xNzguODAuMjA5L21iL2FwaS5waHAvcHJvdmlkZS92b2QvfE1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zM3xxaWFvamk=","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_AI3","name":"❤️AI3〔APP〕","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"ext":"haHR0cDovLzE3NS4xNzguODAuMjA5L21iL3N4eXMvYXBpLnBocC9wcm92aWRlL3ZvZC98b2todHRwLzQuOS4xfHFpYW9qaQ==","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"APP_快看","name":"❤️快看〔APP〕","type":3,"api":"csp_Kuaikan","jar":"./jar/qiaoji.jar;md5;b25c01f5975bd855423b71a907a21b4a","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_豆瓣","name":"🍎豆瓣〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/豆瓣.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_360影视","name":"🍎360影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/360影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_爱奇艺","name":"🍎爱奇艺〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/爱奇艺.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
@@ -27,6 +43,10 @@
 {"key":"drpy_js_芒果","name":"🍎芒果〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/芒果.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_搜狗","name":"🍎搜狗〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/搜狗.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
 {"key":"drpy_js_荐片","name":"🍎荐片〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/荐片.js","searchable":0,"quickSearch":0,"filterable":0,"timeout":30},
+{"key":"drpy_js_追剧","name":"🍎追剧〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/追剧.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_我播","name":"🍎我播〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/我播.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_旺旺","name":"🍎旺旺〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/旺旺.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_电影狗","name":"🍎电影狗〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/电影狗.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_HDmoli","name":"🍎HDmoli〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/HDmoli.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_BT影视","name":"🍎BT影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/BT影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_达达龟","name":"🍎达达龟〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/达达龟.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
@@ -45,6 +65,7 @@
 {"key":"drpy_js_奇优影院","name":"🍎奇优影院〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/奇优影院.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_闪雷影视","name":"🍎闪雷影视〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/闪雷影视.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"drpy_js_天龙影院","name":"🍎天龙影院〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/天龙影院.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
+{"key":"drpy_js_星芽短剧","name":"🍎星芽短剧〔JS〕","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/星芽短剧.js","searchable":1,"quickSearch":1,"filterable":1,"timeout":30},
 {"key":"XBPQ_03影院","name":"🍑03影院〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/03影院.json","timeout":30},
 {"key":"XBPQ_4K影视","name":"🍑4K影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/4K影视.json","timeout":30},
 {"key":"XBPQ_界影视","name":"🍑界影视〔XBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/界影视.json","timeout":30},
