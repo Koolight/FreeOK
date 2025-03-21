@@ -13,9 +13,10 @@
 "warningText":"Koolight：仅供测试交流，严禁用于商业用途，请于24小时之内删除。",
 
 "lives":[
-{"name":"HD-Live","type":0,"url":"https://cdn.jsdelivr.net/gh/PizazzGY/TV@master/output/user_result.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"IPV6","type":0,"url":"https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axghnvpkxk5c/b/vircloud/o/ipv6.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"IPTV","type":0,"url":"https://live.iptv365.org/live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"IPTV","type":0,"url":"https://live.kilvn.com/iptv.m3u","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"Live","type":0,"url":"https://live.iptv365.org/live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"HDTV","type":0,"url":"https://cdn.jsdelivr.net/gh/PizazzGY/TV@master/output/user_result.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"IPV6","type":0,"url":"https://objectstorage.ap-chuncheon-1.oraclecloud.com/n/axghnvpkxk5c/b/vircloud/o/ipv6.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 
 "sites":[
@@ -150,9 +151,7 @@
 "parses":[
 {"name":"臻享","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"内部","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"巴拉","type":1,"url":"https://jxjson.icu/neibu.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"红狐","type":0,"url":"https://player.mrgaocloud.com/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-{"name":"麒麟","type":0,"url":"https://t1.qlplayer.cyou/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"爱看","type":0,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"极速","type":0,"url":"https://jx.2s0.cn/player/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 {"name":"JY","type":0,"url":"https://jx.playerjy.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
