@@ -1,12 +1,12 @@
 {
     "站名":"农民影视",
-    "主页url":"https://www.wwgz.cn/",
+    "主页url":"https://m.wwgz.cn/",
     "简介":"<span class=\"detail-content\" style=*>&&</span>",
     "导演":"导演:&&</p>",
     "主演":"主演：&&</p>",
     "影片状态": "状态：&&</p>",
     "搜索url": "/search.php;post;searchword={wd}",
     "线路数组": "<h3&&/h3>",
-    "分类url": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;ak",
+    "分类url": "https://m.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;ak",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 }
